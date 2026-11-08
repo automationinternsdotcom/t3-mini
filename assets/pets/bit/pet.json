@@ -1,0 +1,7 @@
+{
+  "id": "bit",
+  "displayName": "Bit",
+  "description": "A tiny terminal bot that hums while your agents work.",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.png"
+}

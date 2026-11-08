@@ -1,0 +1,7 @@
+{
+  "id": "mochi",
+  "displayName": "Mochi",
+  "description": "A sleepy orange cat who perks up when you're needed.",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.png"
+}
